@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saidzareh
-- 👀 I’m interested in progrming 
+- 👀 I’m interested in program 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @saidzareh (instagram)
